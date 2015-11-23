@@ -8,5 +8,5 @@ while ($count < 1000) {
     }
     $count = $count + 1;
     }
-echo $total ."\n";
+echo $total . "\n";
 ?>
